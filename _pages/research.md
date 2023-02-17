@@ -29,6 +29,6 @@ author_profile: true
 ## Work in Progress
 
 * A Semiparametric Tensor Factor Model with Time-Varying Covariates
-* Network MGARCH Model
+* Modelling Supply Chain Network with Matrix-Variate Factor Models
 * Mergers and GP Outcomes in England
 
