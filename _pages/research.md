@@ -30,5 +30,5 @@ author_profile: true
 
 * A Semiparametric Tensor Factor Model with Time-Varying Covariates
 * Modelling Supply Chain Network with Matrix-Variate Factor Models
-* Mergers and GP Outcomes in England
+* The Effect of General Practice Mergers on Quality: Evidence from the English NHS
 
