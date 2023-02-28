@@ -29,6 +29,6 @@ author_profile: true
 ## Work in Progress
 
 * A Semiparametric Tensor Factor Model with Time-Varying Covariates
-* Modelling Supply Chain Network with Matrix-Variate Factor Models
+* Modeling Supply Chain Network with Matrix-Variate Factor Models
 * The Effect of General Practice Mergers on Quality: Evidence from the English NHS
 
