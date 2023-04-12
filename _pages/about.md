@@ -14,7 +14,7 @@ I am a PhD candidate at Faculty of Economics, University of Cambridge, supervise
 
 <!-- I received my PhD from xx in xx.-->
 
-My research interests are financial econometrics, economic networks and operations-finance interface.
+My research interests are empirical finance, economic networks and operations-finance interface.
 
 <br />
 
