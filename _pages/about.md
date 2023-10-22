@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "刘俸奇"
+title: "关于我"
 excerpt: "Liu, Fengqi"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
 
 <br />
 
-I am a PhD candidate at Faculty of Economics, University of Cambridge, supervised by [Prof. Oliver Linton](https://www.econ.cam.ac.uk/people/faculty/obl20).
+南开大学经济学院助理研究员
 
 <!-- I received my PhD from xx in xx.-->
 
