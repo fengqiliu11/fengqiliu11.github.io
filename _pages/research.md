@@ -19,18 +19,15 @@ author_profile: true
 
 ## Publications
 
-* [Credit Rating Prediction Through Supply Chains: A Machine Learning Approach](https://doi.org/10.1111/poms.13634) (with Jing Wu and Sean X. Zhou)\
-    ***Production and Operations Management***, Vol. 31, No. 4, April 2022, pp. 1613–1629, media at [POMS](https://youtu.be/ybiD_tnwa2g) and [CUHK](https://cbk.bschool.cuhk.edu.hk/supply-chain-health-a-new-way-to-predict-credit-ratings/).
+[9] 储德银、迟淑娴、刘俸奇，2023，地方政府税收竞争助推了经济发展不平衡吗？——基于劳动力流动的视角，《经济学动态》第11期.<br>
+[8] 洪永淼、刘俸奇、薛涧坡，2023，政府与市场心理因素的经济影响及其测度，《管理世界》第3期.（被《新华文摘》全文转载）<br>
+[7] Huang, K. X .D., Liu, F., Meng, Q., Xue, J. Keeping Up with the Joneses and the Consumption Response to Government Spending. Economics Letters, 2022, 220: No.110869.<br>
+[6] 张同斌、刘俸奇、孙静，2021，中国城市圈层空间经济结构变迁的内在机理研究，《经济学（季刊）》第6期.（被《中国区域经济学年鉴》收录）<br>
+[5] 刘俸奇、储德银、姜春娜，2021，财政透明、公共支出结构与地方政府治理能力，《经济学动态》第4期.（被人大复印报刊资料转载）<br>
+[4] 刘俸奇、张同斌，2020，财政收支结构变动、产业结构转型与环境质量改善，《财政研究》第10期.<br>
+[3] 刘俸奇，2018，基础设施投资与中国经济增长：影响渠道及作用机制研究，《经济科学》第4期.<br>
+[2] 张同斌、刘俸奇*，2018，贸易开放度与经济增长动力——基于产能利用和资本深化途径的再检验，《国际贸易问题》第1期.<br>
+[1] 张同斌、刘俸奇、马丽园，2017，补贴、要素价格扭曲与中国工业企业增长，《经济学动态》第9期.（被人大复印报刊资料转载）<br>
 
-
-## Working Papers
-
-* The Effect of General Practice Mergers on Quality: Evidence from the English NHS
-
-
-## Work in Progress
-
-* A Semiparametric Tensor Factor Model with Time-Varying Covariates
-* Modeling Supply Chain Network with Matrix-Variate Factor Models
 
 
