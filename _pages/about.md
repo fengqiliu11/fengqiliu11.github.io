@@ -23,7 +23,7 @@ redirect_from:
 ♦ 地址：天津市南开区卫津路94号南开大学经济学院（高层）1313室 <br/>
 ♦ 电子邮件 fengqiliucr@163.com <br/>
 
-工作经历 | Work Experience<br/>
+工作经历 <br/>
 ♦ 2022.07 – 至今，助理研究员，南开大学经济学院 <br/>
 
 学历 <br/>
