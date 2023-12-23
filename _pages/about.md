@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Liu, Fengqi(刘俸奇)"
-excerpt: "Liu, Fengqi(刘俸奇)"
+title: "Fengqi Liu(刘俸奇)"
+excerpt: "Fengqi Liu(刘俸奇)"
 author_profile: true
 redirect_from: 
   - /about/
