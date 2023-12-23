@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "About Me"
+locale                   : "中国"
+title                    : "简介"
 title_separator          : "-"
-name                     : &name "Zhaocheng Zhang"
-description              : &description "PhD candidate at University of Cambridge"
-url                      : https://zhaocheng-zhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Fengqi Liu(刘俸奇)"
+description              : &description "南开大学助理研究员"
+url                      : https://fengqiliu11.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : zhaocheng-zhang/zhaocheng-zhang.github.io
+repository               : fengqiliu11/fengqiliu11.github.io
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhaocheng Zhang"
+  name             : "Fengqi Liu(刘俸奇)"
   avatar           : "WechatIMG1.jpeg"
-  bio              : "PhD candidate in Economics"
-  location         : "Cambridge, U.K."
+  bio              : "南开大学经济学院"
+  location         : "中国天津"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=5U-TxWgAAAAJ&hl=en"
-  email            : "zz391@cam.ac.uk"
-  researchgate     : "https://www.researchgate.net/profile/Zhaocheng-Zhang-4"
+  googlescholar    : 
+  email            : "fengqiliucr@163.com"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,17 +96,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zhaocheng-zhang"
+  github           : "fengqiliu11"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         : "zhaocheng-jerry-zhang-51192ab5"
-  orcid            : "http://orcid.org/0000-0001-8803-021X"
+  linkedin         : 
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
