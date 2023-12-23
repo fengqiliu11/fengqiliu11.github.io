@@ -223,7 +223,7 @@ defaults:
       comments: true
   # _publications
   - scope:
-      path: ""
+      path: "fengqiliu11.github.io/_pages/research.md"
       type: publications
     values:
       layout: single
