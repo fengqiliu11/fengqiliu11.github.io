@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "中国"
+locale                   : "中国, 天津"
 title                    : "简介"
 title_separator          : "-"
 name                     : &name "Fengqi Liu(刘俸奇)"
