@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "Liu, Fengqi"
+excerpt: "Liu, Fengqi(刘俸奇)"
 author_profile: true
 redirect_from: 
   - /about/
