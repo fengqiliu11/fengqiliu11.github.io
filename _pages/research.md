@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "研究内容"
-permalink: 
+permalink: /research/
 author_profile: true
 ---
 
