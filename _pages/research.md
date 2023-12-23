@@ -17,9 +17,9 @@ author_profile: true
 {% endfor %}
 -->
 
-## Publications
+## 发表论文
 
-[9] 储德银、迟淑娴、刘俸奇，2023，地方政府税收竞争助推了经济发展不平衡吗？——基于劳动力流动的视角，《经济学动态》第11期.<br>
+[9] 储德银、迟淑娴、刘俸奇，2023，地方政府税收竞争助推了经济发展不平衡吗，《经济学动态》第11期.<br>
 [8] 洪永淼、刘俸奇、薛涧坡，2023，政府与市场心理因素的经济影响及其测度，《管理世界》第3期.（被《新华文摘》全文转载）<br>
 [7] Huang, K. X .D., Liu, F., Meng, Q., Xue, J. Keeping Up with the Joneses and the Consumption Response to Government Spending. Economics Letters, 2022, 220: No.110869.<br>
 [6] 张同斌、刘俸奇、孙静，2021，中国城市圈层空间经济结构变迁的内在机理研究，《经济学（季刊）》第6期.（被《中国区域经济学年鉴》收录）<br>
