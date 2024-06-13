@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Fengqi Liu(刘俸奇)"
-excerpt: "Fengqi Liu(刘俸奇)"
+title: "刘俸奇(Fengqi Liu)"
+excerpt: "刘俸奇(Fengqi Liu)"
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,12 +16,12 @@ redirect_from:
 
 研究领域 <br/>
 ♦ 宏观经济波动<br/>
-♦ 宏观财政 <br/>
+♦ 财政政策 <br/>
 
 <br/>
 联系方式 <br/>
 ♦ 地址：天津市南开区卫津路94号南开大学经济学院（高层）1313室 <br/>
-♦ 电子邮件 fengqiliucr@163.com <br/>
+♦ 电子邮件：fengqiliucr@163.com <br/>
 
 工作经历 <br/>
 ♦ 2022.07 – 至今，助理研究员，南开大学经济学院 <br/>
