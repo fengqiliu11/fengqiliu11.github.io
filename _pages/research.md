@@ -18,7 +18,8 @@ author_profile: true
 -->
 
 ## 代表性成果（#字母顺序排名，*通讯作者）
-[12] **Liu, F.** #, Liu, K., Xue, J. Habit formation and news-driven business cycles. **Review of Economic Dynamics**, 2025, 56: No.101273.<br>
+[13] **Liu, F.** #, Liu, K., Xue, J. Habit formation and news-driven business cycles. **Review of Economic Dynamics**, 2025, 56: No.101273.<br>
+[12] Deng J., Li Y., Ding Y., **Liu, F**. Effect of media attention on corporate green technology innovation: mechanism and evidence from China. **Empirical Economics**, 2025, 68(2): 697-727.
 [11] 储德银、纪凡、**刘俸奇** *，2024，税收竞争、资本流动与收入不平等，《**经济研究**》第6期.<br>
 [10] 洪永淼、**刘俸奇**、薛涧坡，2023，政府与市场心理因素的经济影响及其测度，《**新华文摘**》第14期<br>
 [9] 洪永淼、**刘俸奇**、薛涧坡 *，2023，政府与市场心理因素的经济影响及其测度，《**管理世界**》第3期.<br>
