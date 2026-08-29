@@ -26,7 +26,7 @@ redirect_from:
   </div>
   <figure class="home-portrait">
     <div class="home-portrait__frame">
-      <img src="/images/fengqiliu.jpg" alt="刘俸奇个人照片">
+      <img src="/images/fengqiliu-hd.png" width="1076" height="1462" alt="刘俸奇个人照片">
     </div>
     <figcaption>Fengqi Liu · Nankai University</figcaption>
   </figure>
