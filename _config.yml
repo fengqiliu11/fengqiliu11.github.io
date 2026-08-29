@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "中国, 天津"
-title                    : "简介"
+locale                   : "zh-CN"
+title                    : "刘俸奇 | Fengqi Liu"
 title_separator          : "-"
-name                     : &name "Fengqi Liu(刘俸奇)"
-description              : &description "南开大学助理研究员"
+name                     : &name "刘俸奇 | Fengqi Liu"
+description              : &description "刘俸奇，南开大学经济学院副教授。研究领域：宏观经济与财政政策。"
 url                      : https://fengqiliu11.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : fengqiliu11/fengqiliu11.github.io
@@ -62,28 +62,29 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : og.png
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : "刘俸奇 | Fengqi Liu"
+  links:
+    - https://github.com/fengqiliu11
 
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Fengqi Liu(刘俸奇)"
+  name             : "刘俸奇 | Fengqi Liu"
   avatar           : "fengqiliu.jpg"
-  bio              : "南开大学经济学院"
-  location         : "中国天津"
+  bio              : "南开大学经济学院副教授"
+  location         : "天津 · 中国"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -267,7 +268,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai
 
 
 # Plugins
