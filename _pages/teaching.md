@@ -17,4 +17,12 @@ author_profile: true
       <p>Chinese Tax System</p>
     </div>
   </article>
+  <article class="course-card">
+    <div class="course-card__mark">02</div>
+    <div>
+      <p class="eyebrow">COURSE</p>
+      <h3>税务管理</h3>
+      <p>Tax Administration</p>
+    </div>
+  </article>
 </section>

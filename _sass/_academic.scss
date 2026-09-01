@@ -176,6 +176,7 @@ a { color: $academic-teal; }
 .project-list p { margin-top: 0.45rem; color: $academic-muted; font-size: 0.78rem; }
 
 .course-card { display: grid; grid-template-columns: 72px 1fr; gap: 1.25rem; align-items: center; padding: 2rem; border: 1px solid $academic-line; background: rgba($academic-paper, 0.72); }
+.course-card + .course-card { margin-top: 1rem; }
 .course-card__mark { display: flex; align-items: center; justify-content: center; width: 54px; height: 54px; border: 1px solid rgba($academic-teal, 0.35); border-radius: 50%; color: $academic-teal; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.08em; }
 .course-card .eyebrow { margin-bottom: 0.35rem; }
 .course-card h3 { margin: 0; font-size: 1.4rem; font-weight: 500; }

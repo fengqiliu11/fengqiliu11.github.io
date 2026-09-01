@@ -14,13 +14,14 @@ redirect_from:
     <p class="eyebrow">FENGQI LIU · ECONOMIST</p>
     <h1 id="home-title">刘俸奇 <span>Fengqi Liu</span></h1>
     <p class="home-hero__role">南开大学经济学院副教授</p>
-    <p class="home-hero__intro">研究聚焦宏观经济与财政政策，关注政府政策、经济波动与居民行为之间的关系。</p>
+    <p class="home-hero__intro">研究聚焦宏观经济与财政政策，关注政府政策、经济波动与居民行为之间的关系；教学方面，讲授税务管理课程。</p>
     <div class="home-actions">
       <a class="academic-button academic-button--primary" href="/research/">查看研究成果 <span aria-hidden="true">→</span></a>
       <a class="academic-button" href="mailto:fengqiliucr@163.com">邮件联系</a>
     </div>
     <ul class="home-meta" aria-label="个人信息">
       <li>南开大学经济学院</li>
+      <li>讲授课程：税务管理</li>
       <li>天津 · 中国</li>
     </ul>
   </div>
