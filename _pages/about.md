@@ -44,13 +44,13 @@ redirect_from:
   <div class="interest-grid">
     <article class="interest-card">
       <span class="interest-card__number">01</span>
-      <h3>宏观经济</h3>
-      <p>Macroeconomics</p>
+      <h3>财政政策</h3>
+      <p>Fiscal Policy</p>
     </article>
     <article class="interest-card">
       <span class="interest-card__number">02</span>
-      <h3>财政政策</h3>
-      <p>Fiscal Policy</p>
+      <h3>宏观经济</h3>
+      <p>Macroeconomics</p>
     </article>
   </div>
 </section>
