@@ -36,10 +36,13 @@ redirect_from:
 <section class="cv-section">
   <h2>代表性成果 <span>Selected publications</span></h2>
   <div class="cv-publications">
+    <p><strong>2026</strong> 减税政策有效性与企业预期改善，《管理世界》第10期（第109页起）。</p>
     <p><strong>2025</strong> Habit formation and news-driven business cycles. <em>Review of Economic Dynamics</em>, 56, 101273.</p>
-    <p><strong>2025</strong> Effect of media attention on corporate green technology innovation: mechanism and evidence from China. <em>Empirical Economics</em>, 68(2), 697–727.</p>
     <p><strong>2024</strong> 税收竞争、资本流动与收入不平等，《经济研究》第6期。</p>
+    <p><strong>2023</strong> 政府与市场心理因素的经济影响及其测度，《新华文摘》第14期。</p>
     <p><strong>2023</strong> 政府与市场心理因素的经济影响及其测度，《管理世界》第3期。</p>
+    <p><strong>2021</strong> 中国城市圈层空间经济结构变迁的内在机理研究，《经济学（季刊）》第6期。</p>
+    <p><strong>2025</strong> Effect of media attention on corporate green technology innovation: mechanism and evidence from China. <em>Empirical Economics</em>, 68(2), 697–727.</p>
     <p><strong>2022</strong> Keeping Up with the Joneses and the Consumption Response to Government Spending. <em>Economics Letters</em>, 220, 110869.</p>
   </div>
   <a class="text-link" href="/research/">查看完整成果列表 <span aria-hidden="true">→</span></a>
