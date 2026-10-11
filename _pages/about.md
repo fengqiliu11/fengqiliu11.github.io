@@ -57,7 +57,7 @@ redirect_from:
   <div class="section-heading section-heading--inline">
     <div>
       <p class="eyebrow">SELECTED PUBLICATIONS</p>
-      <h2 id="featured-title">近期成果</h2>
+      <h2 id="featured-title">代表性成果</h2>
     </div>
     <a class="text-link" href="/research/">全部研究成果 <span aria-hidden="true">→</span></a>
   </div>
@@ -79,19 +79,43 @@ redirect_from:
       </div>
     </article>
     <article class="featured-paper">
-      <p class="featured-paper__year">2025</p>
-      <div>
-        <h3>Effect of media attention on corporate green technology innovation: mechanism and evidence from China</h3>
-        <p>Deng, J., Li, Y., Ding, Y., <strong>Liu, F.</strong></p>
-        <p class="featured-paper__venue">Empirical Economics, 68(2), 697–727</p>
-      </div>
-    </article>
-    <article class="featured-paper">
       <p class="featured-paper__year">2024</p>
       <div>
         <h3>税收竞争、资本流动与收入不平等</h3>
         <p>储德银、纪凡、<strong>刘俸奇</strong>（通讯作者）</p>
         <p class="featured-paper__venue">《经济研究》第6期</p>
+      </div>
+    </article>
+    <article class="featured-paper">
+      <p class="featured-paper__year">2023</p>
+      <div>
+        <h3>政府与市场心理因素的经济影响及其测度</h3>
+        <p>洪永淼、<strong>刘俸奇</strong>、薛涧坡</p>
+        <p class="featured-paper__venue">《新华文摘》第14期</p>
+      </div>
+    </article>
+    <article class="featured-paper">
+      <p class="featured-paper__year">2023</p>
+      <div>
+        <h3>政府与市场心理因素的经济影响及其测度</h3>
+        <p>洪永淼、<strong>刘俸奇</strong>、薛涧坡（通讯作者）</p>
+        <p class="featured-paper__venue">《管理世界》第3期</p>
+      </div>
+    </article>
+    <article class="featured-paper">
+      <p class="featured-paper__year">2021</p>
+      <div>
+        <h3>中国城市圈层空间经济结构变迁的内在机理研究</h3>
+        <p>张同斌、<strong>刘俸奇</strong>（通讯作者）、孙静</p>
+        <p class="featured-paper__venue">《经济学（季刊）》第6期</p>
+      </div>
+    </article>
+    <article class="featured-paper">
+      <p class="featured-paper__year">2025</p>
+      <div>
+        <h3>Effect of media attention on corporate green technology innovation: mechanism and evidence from China</h3>
+        <p>Deng, J., Li, Y., Ding, Y., <strong>Liu, F.</strong></p>
+        <p class="featured-paper__venue">Empirical Economics, 68(2), 697–727</p>
       </div>
     </article>
   </div>
