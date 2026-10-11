@@ -102,22 +102,6 @@ redirect_from:
         <p class="featured-paper__venue">《管理世界》第3期</p>
       </div>
     </article>
-    <article class="featured-paper">
-      <p class="featured-paper__year">2021</p>
-      <div>
-        <h3>中国城市圈层空间经济结构变迁的内在机理研究</h3>
-        <p>张同斌、<strong>刘俸奇</strong>（通讯作者）、孙静</p>
-        <p class="featured-paper__venue">《经济学（季刊）》第6期</p>
-      </div>
-    </article>
-    <article class="featured-paper">
-      <p class="featured-paper__year">2025</p>
-      <div>
-        <h3>Effect of media attention on corporate green technology innovation: mechanism and evidence from China</h3>
-        <p>Deng, J., Li, Y., Ding, Y., <strong>Liu, F.</strong></p>
-        <p class="featured-paper__venue">Empirical Economics, 68(2), 697–727</p>
-      </div>
-    </article>
   </div>
 </section>
 
