@@ -10,7 +10,8 @@ author_profile: true
 
 <h2 class="academic-section-title">代表性成果 <span>Selected publications</span></h2>
 
-<ol class="publication-list" reversed start="13">
+<ol class="publication-list" reversed start="14">
+  <li><div class="publication-card"><p class="publication-card__title">减税政策有效性与企业预期改善</p><p>储德银、纪宇轩、<strong>刘俸奇</strong><sup>*</sup></p><p class="publication-card__meta"><span>2026</span> 《管理世界》第10期（第109页起）</p></div></li>
   <li><div class="publication-card"><p class="publication-card__title">Habit formation and news-driven business cycles</p><p><strong>Liu, F.</strong><sup>#</sup>, Liu, K., Xue, J.</p><p class="publication-card__meta"><span>2025</span> Review of Economic Dynamics, 56, 101273</p></div></li>
   <li><div class="publication-card"><p class="publication-card__title">Effect of media attention on corporate green technology innovation: mechanism and evidence from China</p><p>Deng, J., Li, Y., Ding, Y., <strong>Liu, F.</strong></p><p class="publication-card__meta"><span>2025</span> Empirical Economics, 68(2), 697–727</p></div></li>
   <li><div class="publication-card"><p class="publication-card__title">税收竞争、资本流动与收入不平等</p><p>储德银、纪凡、<strong>刘俸奇</strong><sup>*</sup></p><p class="publication-card__meta"><span>2024</span> 《经济研究》第6期</p></div></li>
