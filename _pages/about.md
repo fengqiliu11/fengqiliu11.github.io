@@ -67,7 +67,7 @@ redirect_from:
       <div>
         <h3>减税政策有效性与企业预期改善</h3>
         <p>储德银、纪宇轩、<strong>刘俸奇</strong>（通讯作者）</p>
-        <p class="featured-paper__venue">《管理世界》第10期（第109页起）</p>
+        <p class="featured-paper__venue">《管理世界》第10期</p>
       </div>
     </article>
     <article class="featured-paper">

@@ -36,7 +36,7 @@ redirect_from:
 <section class="cv-section">
   <h2>代表性成果 <span>Selected publications</span></h2>
   <div class="cv-publications">
-    <p><strong>2026</strong> 减税政策有效性与企业预期改善，《管理世界》第10期（第109页起）。</p>
+    <p><strong>2026</strong> 减税政策有效性与企业预期改善，《管理世界》第10期。</p>
     <p><strong>2025</strong> Habit formation and news-driven business cycles. <em>Review of Economic Dynamics</em>, 56, 101273.</p>
     <p><strong>2024</strong> 税收竞争、资本流动与收入不平等，《经济研究》第6期。</p>
     <p><strong>2023</strong> 政府与市场心理因素的经济影响及其测度，《新华文摘》第14期。</p>
